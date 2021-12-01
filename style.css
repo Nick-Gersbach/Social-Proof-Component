@@ -22,7 +22,7 @@ body {
   background-image: url(/images/bg-pattern-top-desktop.svg),
     url(/images/bg-pattern-bottom-desktop.svg);
   background-repeat: no-repeat, no-repeat;
-  background-position: -5vw -1vh, 15vw 47vh;
+  background-position: -10vw -1vh, 15vw 47vh;
 }
 
 .container {
